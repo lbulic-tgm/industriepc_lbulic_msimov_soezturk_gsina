@@ -15,11 +15,7 @@ IP Adresse ermitteln mittels ```addr show```
 Erstellen einer Authdatei <br>
 ```sudo nano /etc/apt/auth.conf.d/bhf.conf```
 
-
-
-## Quellen
-
-## Quellen
-
-
-https://download.beckhoff.com/download/document/ipc/embedded-pc/embedded-pc-cx/Beckhoff_RT_Linux_de.pdf/embedded-pc-cx/Beckho
+## Schritt 5
+Twincat installieren
+´´´sudo apt update``` <br>
+```sudo apt install tc31-xar-um```ad.beckhoff.com/download/document/ipc/embedded-pc/embedded-pc-cx/Beckhoff_RT_Linux_de.pdf/embedded-pc-cx/Beckho
