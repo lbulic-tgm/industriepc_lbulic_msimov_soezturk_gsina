@@ -1,6 +1,7 @@
 # Protokoll  
 **Projekt:** industriepc_lbulic_msimov_soezturk_gsina  
-
+Repo kann man aufrufen unter:
+https://github.com/lbulic-tgm/industriepc_lbulic_msimov_soezturk_gsina
 ---
 
 ## Schritt 1 – Dokumentation & Hardwareanalyse  
@@ -110,3 +111,7 @@ END_IF
 - TwinCAT Runtime unter Linux installiert  
 - Funktionsfähiges SPS-Programm zur Taster-Lampen-Steuerung erstellt  
 - Flankenerkennung verhindert Mehrfachschaltungen beim Gedrückthalten des Tasters
+
+![bild1](https://github.com/user-attachments/assets/e50ef77d-33f2-42dc-8b34-fba82ac7e657)
+![bild2](https://github.com/user-attachments/assets/e3deb1c5-6e39-4786-b924-34b0cdbf1a86)
+
