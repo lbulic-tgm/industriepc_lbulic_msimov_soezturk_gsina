@@ -1,8 +1,8 @@
 # Protokoll  
 **Projekt:** industriepc_lbulic_msimov_soezturk_gsina  
+---
 Repo kann man aufrufen unter:
 https://github.com/lbulic-tgm/industriepc_lbulic_msimov_soezturk_gsina
----
 
 ## Schritt 1 – Dokumentation & Hardwareanalyse  
 Zunächst wurde die vorhandene Dokumentation der Beckhoff-Hardware recherchiert und studiert. Ziel war es, die eingesetzten I/O-Karten zu identifizieren und deren Funktion (Input / Output) festzulegen.
